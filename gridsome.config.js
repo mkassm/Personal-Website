@@ -5,10 +5,10 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: "Mohamed Aboelkassem",
+  siteName: "Mohamed Kassem",
   siteDescription:
-    "Mohamed Abdelrahman (@aboelkassem) is a software engineer who loves the tech industry, problem solving, and open source contributions.",
-  siteUrl: "https://www.aboelkassem.tech",
+    "Mohamed Kassem (@mkassm) is a software engineer who loves the tech industry, problem solving, and open source contributions.",
+  siteUrl: "https://www.kassm.me",
   plugins: [
     {
       use: "gridsome-plugin-tailwindcss",
@@ -26,15 +26,15 @@ module.exports = {
       options: {
         contentTypeName: "Post",
         feedOptions: {
-          title: "Aboelkassem portfolio",
-          feed_url: "https://www.aboelkassem.tech/rss.xml",
-          site_url: "https://www.aboelkassem.tech",
+          title: "Mohamed Kassem portfolio",
+          feed_url: "https://www.kassm.me/rss.xml",
+          site_url: "https://www.kassm.me",
         },
         feedItemOptions: (node) => ({
           title: node.title,
           description: node.summary,
-          url: "https://blog.aboelkassem.tech/" + node.slug,
-          author: "aboelkassem",
+          url: "https://blog.kassm.me/" + node.slug,
+          author: "Mohamed Kassem",
           date: node.date,
         }),
         output: { dir: "./static", name: "rss.xml" },
@@ -56,8 +56,8 @@ module.exports = {
       options: {
         background_color: "#000000",
         icon_path: "./src/favicon.png",
-        name: "Aboelkassem Portfolio",
-        short_name: "aboelkassem",
+        name: "Mohamed Kassem Portfolio",
+        short_name: "Mohamed Kassem",
         theme_color: "#FFFFFF",
         lang: "en",
       },
@@ -69,8 +69,8 @@ module.exports = {
     {
       use: "gridsome-plugin-robots-txt",
       options: {
-        host: "https://www.aboelkassem.tech",
-        sitemap: "https://www.aboelkassem.tech/sitemap.xml",
+        host: "https://www.kassm.me",
+        sitemap: "https://www.kassm.me/sitemap.xml",
         policy: [
           {
             userAgent: "Googlebot",

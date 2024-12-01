@@ -1,8 +1,8 @@
 {
     "background_color": "#000000",
     "icon_path": "./src/favicon.png",
-    "name": "aboelkassem Portfolio",
-    "short_name": "aboelkassem",
+    "name": "Mohamed Kassem Portfolio",
+    "short_name": "Mohamed Kassem",
     "theme_color": "#FFFFFF",
     "lang": "en",
     "display": "minimal-ui",

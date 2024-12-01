@@ -49,13 +49,13 @@
 					<li>
 						<a
 							v-if="$route.path === '/'"
-							href="https://blog.aboelkassem.tech/" target="_blank"
+							href="https://blog.kassm.me/" target="_blank"
 							class="text-copy-primary hover:text-gray-600"
 							>Blog</a
 						>
 						<g-link
 							v-else
-							to="https://blog.aboelkassem.tech/"
+							to="https://blog.kassm.me/"
 							target="_blank"
 							class="text-copy-primary hover:text-gray-600"
 							>Blog</g-link
@@ -147,7 +147,7 @@
 			>
 				<div class="mb-8 lg:mb-0">
 					<div>
-						© aboelkassem {{ new Date().getFullYear() }}. All rights
+						© Mohamed Kassem {{ new Date().getFullYear() }}. All rights
 						reserved.
 					</div>
 					<div>
@@ -168,7 +168,7 @@
 					<li>
 						<a
 							aria-label="mail icon"
-							href="mailto:aboelkassem.me@gmail.com"
+							href="mailto:mohammed.a.kassm@gmail.com"
 							class="text-white hover:text-gray-400"
 						>
 							<svg
@@ -188,7 +188,7 @@
 					<li>
 						<a
 							aria-label="github icon"
-							href="https://github.com/aboelkassem/"
+							href="https://github.com/mkassm/"
 							rel="noreferrer"
 							target="_blank"
 							class="text-white hover:text-gray-400"
@@ -210,7 +210,7 @@
 					<li>
 						<a
 							aria-label="linkedin icon"
-							href="https://www.linkedin.com/in/aboelkassem"
+							href="https://www.linkedin.com/in/mkassm"
 							target="_blank"
 							class="text-white hover:text-gray-400"
 							><svg

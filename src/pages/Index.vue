@@ -28,7 +28,7 @@
 
 				<a
 					class="inline-block bg-background-secondary button py-2 px-3 mx-1 rounded-lg text-indigo-300 text-lg hover:text-gray-500"
-					href="https://www.linkedin.com/in/aboelkassem"
+					href="https://www.linkedin.com/in/mkassm"
 					target="_blank"
 					>
 					<svg
@@ -48,7 +48,7 @@
 
 				<a
 					class="inline-block bg-background-secondary button py-2 px-3 mx-1 rounded-lg text-indigo-300 text-lg hover:text-gray-500"
-					href="https://github.com/aboelkassem/"
+					href="https://github.com/mkassm/"
 					target="_blank"
 					>
 					<svg
@@ -67,7 +67,7 @@
 				>
 				<a
 					class="inline-block bg-background-secondary button py-2 px-3 mx-1 rounded-lg text-indigo-300 text-lg hover:text-gray-500"
-					href="mailto:aboelkassem.me@gmail.com"
+					href="mailto:mohammed.a.kassm@gmail.com"
 					>
 					<svg
 						width="25"
@@ -134,7 +134,7 @@
 
 						<p class="m-8">
 							I spend a lot of my development time contributing to open-source projects.
-							Most of it started by myself which can be found from my <a href="https://github.com/aboelkassem">GitHub profile</a>. I'm also spending a lot of time blogging at <a href="https://blog.aboelkassem.tech">blog.aboelkassem.tech</a>.
+							Most of it started by myself which can be found from my <a href="https://github.com/mkassm">GitHub profile</a>. I'm also spending a lot of time blogging at <a href="https://blog.kassm.me">blog.kassm.me</a>.
 						</p>
 
 						<p class="m-8">
@@ -841,7 +841,7 @@
 					projectName="Listify"
 					imgUrl="/aaise.png"
 					liveLink="https://youtu.be/NlUXDOMyAPM"
-					codeLink="https://github.com/aboelkassem/Listify"
+					codeLink="https://github.com/mkassm/Listify"
 					imgCoverUrl="/listify.png"
 					description="A video, music sharing and streaming experience platform based on ASP.NET Core and Angular."
 					v-bind:tools="['ASP.NET Core','Angular','SignalR', 'IdentityServer4', 'Jira', 'Paypal', 'Youtube', 'Spotify']"
@@ -849,8 +849,8 @@
 				<ProjectCard
 					projectName="ChattingApp"
 					imgUrl="/aaseh.png"
-					liveLink="https://chatting.aboelkassem.tech"
-					codeLink="https://github.com/aboelkassem/ChattingApp"
+					liveLink="https://chatting.kassm.me"
+					codeLink="https://github.com/mkassm/ChattingApp"
 					imgCoverUrl="/chattingapp.png"
 					description="A real-time messaging and dating application build with ASP.NET Core and Angular."
 					v-bind:tools="['ASP.NET Core','Angular', 'SQllite', 'AutoMapper', 'JwtToken', 'alertifyjs', 'Cloudinary']"
@@ -858,8 +858,8 @@
 				<ProjectCard
 					projectName="Foods"
 					imgUrl="/asejb.png"
-					liveLink="https://foods.aboelkassem.tech"
-					codeLink="https://github.com/aboelkassem/Foods_Restaurant"
+					liveLink="https://foods.kassm.me"
+					codeLink="https://github.com/mkassm/Foods_Restaurant"
 					imgCoverUrl="/foods.png"
 					description="A restaurant management system that enable customers to order food online and get delivered."
 					v-bind:tools="['ASP.NET Core','EntityFramework Core', 'MSSQL', 'jQuery', 'AJAX', 'toastr', 'Stripe', 'SendGrid']"
@@ -868,7 +868,7 @@
 					projectName="Library"
 					imgUrl="/aes.png"
 					liveLink="http://library.somee.com"
-					codeLink="https://github.com/aboelkassem/Library_WebApplication"
+					codeLink="https://github.com/mkassm/Library_WebApplication"
 					imgCoverUrl="/library.png"
 					description="A library managment system for uploading, downloading and browsing books based on ASP.NET"
 					v-bind:tools="['ASP.NET MVC','EntityFramework 6', 'MSSQL', 'AJAX']"
@@ -885,8 +885,8 @@
 				<ProjectCard
 					projectName="Blog"
 					imgUrl="/gn.png"
-					liveLink="https://blog.aboelkassem.tech"
-					codeLink="https://github.com/aboelkassem/blog"
+					liveLink="https://blog.kassm.me"
+					codeLink="https://github.com/mkassm/blog"
 					imgCoverUrl="/blog.png"
 					description="My personal blog where to share my thoughts and technical articles...built using Gatsby and Netlify CMS"
 					v-bind:tools="['Gatsby','Netlify CMS', 'React', 'DISQUS']"
@@ -914,7 +914,7 @@
 
 					<p class="my-8">
 						If you want to chat about anything? Ping me anytime on
-						<a href="https://twitter.com/maboelkassim">Twitter</a>. I’m also on <a href="https://github.com/aboelkassem">Github</a>, and <a href="https://www.linkedin.com/in/aboelkassem">Linkedin</a> if you’re into that sort of thing.
+						<a href="https://twitter.com/maboelkassim">Twitter</a>. I’m also on <a href="https://github.com/mkassm">Github</a>, and <a href="https://www.linkedin.com/in/mkassm">Linkedin</a> if you’re into that sort of thing.
 					</p>
 
 

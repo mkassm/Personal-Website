@@ -19,20 +19,17 @@ export default function (Vue, { router, head, isClient }) {
   head.meta.push({
     name: "keywords",
     content:
-      "aboelkassem,ابوالقاسم,محمد عبدالرحمن,Mohamed Abdelrahman,aboelkassem,Abo elkassem,Mohamed, aboelkassem.tech,aboelkassem me,abo_elkassem,aboel_kassem,ab0elkassem,Aboelkassem77,mohamed aboelkassem,Mohamed Abdelrahman Aboelkassem,mohamed abdelrahman,back-end engineer, web developer, full stack developer,junior full stack developer,.Net developer,software engineer,software developer,aboelkassem developer,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,Typescript,ASP.NET Core,Angular,Listify,SQL Server,github,code,software,open source,beni suef,Beni-Suef,egypt, silverkey, silverkeytech",
+      "Mohamed Kassem, mkssm, kassm.me, pwc, aboelkassem, mo_kassm, ابوالقاسم,محمد عبدالرحمن,Mohamed Abdelrahman,aboelkassem,Abo elkassem,Mohamed, kassm.me,aboelkassem me,abo_elkassem,aboel_kassem,ab0elkassem,Aboelkassem77, distributed systems, developer, egypt, beni suef, pwc etic, web security, mohamed aboelkassem,Mohamed Abdelrahman Aboelkassem,mohamed abdelrahman,back-end engineer, web developer, full stack developer,junior full stack developer,.Net developer,software engineer,software developer,aboelkassem developer,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,Typescript,ASP.NET Core,Angular,Listify,SQL Server,github,code,software,open source,beni suef,Beni-Suef,egypt, silverkey, silverkeytech",
   });
 
-  // head.meta.push({
-  //     name: 'description',
-  //     content: 'Mohamed Abdelrahman is a computer science student and
-  //     passionate software engineer based in Egypt who love the tech industry,
-  //     problem solving, and open source contributions. He specializes in
-  //     developing high-quality web applications',
-  // });
+  head.meta.push({
+      name: 'description',
+      content: 'Mohamed Kassem is a passionate software engineer based in Egypt who love the tech industry, problem solving, and open source contributions. He specializes in developing high-quality web applications',
+  });
 
   head.meta.push({
     name: "author",
-    content: "aboelkassem",
+    content: "Mohamed Kassem",
   });
 
   head.meta.push({
@@ -42,23 +39,23 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: "twitter:creator",
-    content: "@aboel_kassem",
+    content: "@mo_kassm",
   });
 
   head.meta.push({
     name: "twitter:description",
     content:
-      "Mohamed Aboelkassem is a passionate software engineer based in Egypt who love the tech-industry, problem-solving, and open source contributions. He specializes in developing high-quality web applications",
+      "Mohamed Kassem is a passionate software engineer based in Egypt who love the tech-industry, problem-solving, and open source contributions. He specializes in developing high-quality web applications",
   });
 
   head.meta.push({
     name: "twitter:site",
-    content: "@aboel_kassem",
+    content: "@mo_kassm",
   });
 
   head.meta.push({
     name: "twitter:title",
-    content: "Software Developer| Mohamed Aboelkassem",
+    content: "Software Developer| Mohamed Kassem",
   });
 
   head.meta.push({
@@ -69,7 +66,7 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: "twitter:url",
-    content: "https://www.aboelkassem.tech",
+    content: "https://kassm.me",
   });
 
   head.meta.push({
@@ -80,13 +77,13 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: "og:title",
-    content: "Software Developer| Mohamed Aboelkassem",
+    content: "Software Developer| Mohamed Kassem",
   });
 
   head.meta.push({
     name: "og:description",
     content:
-      "Mohamed Aboelkassem is a passionate software engineer based in Egypt who love the tech industry, problem-solving, open-source contributions and specializes in developing high-quality web applications",
+      "Mohamed Kassem is a passionate software engineer based in Egypt who love the tech industry, problem-solving, open-source contributions and specializes in developing high-quality web applications",
   });
 
   head.meta.push({
@@ -96,12 +93,12 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: "og:url",
-    content: "https://www.aboelkassem.tech",
+    content: "https://www.kassm.me",
   });
 
   head.meta.push({
     name: "og:site_name",
-    content: "Mohamed Aboelkassem",
+    content: "Mohamed Kassem",
   });
 
   head.meta.push({
@@ -126,12 +123,12 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: "og:image:alt",
-    content: "Mohamed Aboelkassem",
+    content: "Mohamed Kassem",
   });
 
   head.meta.push({
     name: "canonical",
-    content: "https://aboelkassem.tech",
+    content: "https://kassm.me",
   });
 
   head.meta.push({
