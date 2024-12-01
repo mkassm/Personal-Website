@@ -9,7 +9,7 @@
 				<h5 class="text-2xl">
 					Hello! <span class="wave">👋🏻</span>
 				</h5>
-				<div class="leading-tight">I’m Mohamed Abdelrahman</div>
+				<div class="leading-tight">I’m Mohamed Kassem</div>
 
 				<div class="pt-2 text-2xl text-blue-400 leading-tight">
 					<vue-typed-js :strings="['Full Stack web developer', 'Software Engineer', 'Open Source Contributor', 'Back-End Developer']" :loop="true" :typeSpeed="30">
@@ -128,7 +128,7 @@
 					</div>
 					<div class="bg-background-tertiary flex-1 text-lg sm:text-xl ml-6">
 						<p class="m-8">
-							Hi, I'm Mohamed Abdelrahman, currently I am a Software Developer at <a href="https://silverkeytech.com">SilverKey Technologies</a>,
+							Hi, I'm Mohamed Kassem, currently I am a Software Developer at <a href="https://silverkeytech.com">SilverKey Technologies</a>,
 							and a passionate self-taught software developer with 3+ years of experience in enterprise architecture systems from Egypt. I am enjoy writing clean, secure, and maintainable code.
 						</p>
 
