@@ -400,25 +400,6 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p95 dotnetColor">
-									<span>
-										<g-image
-										src="/asp.svg"
-										id="asp"
-										alt="asp icon"
-											class="img-skill"
-										/>
-									</span>
-									<div class="slice">
-										<div class="bar"></div>
-										<div class="fill"></div>
-									</div>
-									</div>
-									<p class="truncate font-semibold text-center">ASP.NET</p>
-								</div>
-							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
-								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p80 dotnetColor">
 									<span>
 										<g-image
