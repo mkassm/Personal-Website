@@ -128,8 +128,8 @@
 					</div>
 					<div class="bg-background-tertiary flex-1 text-lg sm:text-xl ml-6">
 						<p class="m-8">
-							Hi, I'm Mohamed Kassem, currently I am a Software Developer at <a href="https://silverkeytech.com">SilverKey Technologies</a>,
-							and a passionate self-taught software developer with 3+ years of experience in enterprise architecture systems from Egypt. I am enjoy writing clean, secure, and maintainable code.
+							Hi, I'm Mohamed Kassem, currently I am a Software Developer at <a href="https://pwc.com">PwC</a> - Egypt Technology & Innovation Centre (ETIC),
+							and a passionate self-taught software developer with over +3 years of experience in enterprise architecture systems from Egypt. I am enjoy writing clean, secure, and maintainable code.
 						</p>
 
 						<p class="m-8">
