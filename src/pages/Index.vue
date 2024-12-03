@@ -203,29 +203,11 @@
 								your assessment programmes and workflows.
 							</p>
 							<ul class="ml-5">
-								<li>
-									- Collaborated with the DPS team in UK to deliver risk and assurance
-									features for serving global clients, including Amazon, IKEA, Jaguar
-									Land Rover (JLR), and other enterprise tenants.
-								</li>
-								<li>
-									- Implemented an Assessment Intelligence AI Assistant using RAG and
-									GenAI technologies, leveraging Azure OpenAI, Semantic Kernel, and
-									Azure AI Services.
-								</li>
-								<li>
-									- Enhanced platform performance by optimizing and rewriting database
-									queries, achieving 95% faster under high workloads.
-								</li>
-								<li>
-									- Upgraded a Vue SPA to the latest ecosystem, incorporating Vue 3,
-									Vite, and Pinia with TypeScript for maintainability.
-								</li>
-								<li>
-									- Conducted regular code reviews to ensure the delivery of clean,
-									maintainable, and secure code, following clean architecture and
-									design principles.
-								</li>
+								<li>- Collaborated with the DPS team in UK to deliver risk and assurance features for serving global clients, including Amazon, IKEA, Jaguar Land Rover (JLR), and other enterprise tenants.</li>
+								<li>- Developed an AI-powered Assessment Intelligence Assistant using Azure OpenAI, Semantic Kernel, and Azure AI Services to enhance data processing and insights.</li>
+								<li>- Optimized database queries, achieving up to 95% faster performance under high workloads.</li>
+								<li>- Upgraded a Vue.js SPA ecosystem to Vue 3 with Vite, Pinia, and TypeScript for improved maintainability and performance.</li>
+								<li>- Conducted code reviews to ensure clean, maintainable, and secure code aligned with clean architecture principles.</li>
 							</ul>
 							<p class="mt-2">
 								<strong>Tech Stack</strong>: .NET Core 8, SignalR, OAuth2 with
@@ -257,41 +239,30 @@
 							<p>I have worked on designing and building many financial projects for <a href="https://taly.com.eg">Taly digital payments</a> and other governorate management systems. The following highlights the projects to which I've contributed and my responsibilities:</p>
 						<h4 class="text-2xl mt-2">Taly BNPL (Buy Now Pay Later)</h4>
 						<ul class="ml-5">
-							<li>- Initiated the project architecture by applying the best practices in .NET Core with backend for frontend (BFF) pattern.</li>
-							<li>- Developed and designed web poral features including plan management, onboarding flow, maker/checker review, action logs, custom rule engine, in-system notifications, background services, and others.</li>
+							<li>- Designed a scalable multi-tenant architecture using .NET Core with a BFF pattern.</li>
+							<li>- Developed and designed web poral features including plan management, multi-tenancy onboarding flow, maker/checker review, action logs, custom rule engine, in-system notifications, background services, and others.</li>
 							<li>- Implemented secure APIs (Internal & Integration) for onboarding/offboarding and repayment of external merchants.</li>
-							<li>- Design the system to be multi-tenant enabling banks serve their nested corporate, aggregators, and merchants.</li>
-							<li>- Document the database design and integration API Guide.</li>
 						</ul>
 						<h4 class="text-2xl mt-2">Taly Meeza Wallet</h4>
 						<ul class="ml-5">
 							<li>- Developed REST APIs based on service-oriented architecture (SOA) for the wallet mobile app and integration services.</li>
 							<li>- Implemented the integration layers (inbound and outbound) of Meeza digital network to handle wallet processing in Egypt, achieving both issuer and acquirer certifications from <a href="https://www.egyptianbanks.com">Egyptian Bank</a>.</li>
 							<li>- Engaged with security team to remediate their findings ensuring PCI DSS compliance and standards for PII storage.</li>
-							<li>- Reduced database workload by implementing distributed caching, leading to improved overall performance.</li>
-							<li>- Ensured regulatory compliance from the <a href="https://www.cbe.org.eg">Central Bank of Egypt (CBE)</a> by meeting their security, payment standards and requirements.</li>
 						</ul>
 						<h4 class="text-2xl mt-2">Taly Installment</h4>
 						<ul class="ml-5">
 							<li>- Developed file mapping and processing functionality to synchronize Bank installment plans and POS transactions.</li>
-							<li>- Implemented SFTP and FTPS connections export and importing files to/from third parties.</li>
-							<li>- Created a file tracking feature to log every event associated with generated files.</li>
-							<li>- Created a file tracking feature to log every event associated with generated files.</li>
-							<li></li>
+							<li>- Implemented SFTP/FTPS connections export and importing files to/from third parties.</li>
 						</ul>
 						<h4 class="text-2xl mt-2">Education Quality Monitoring System (EQMS)</h4>
 						<ul class="ml-5">
-							<li>- Delivered the next phase to the Ministry of Education and Technical Education (MoETE) in partnership with <a href="https://giz.de">GIZ</a>.</li>
 							<li>- Developed many features in the web portal including school forums, assessment and statistics reports, notifications, and surveys.</li>
 							<li>- Implemented the backend REST APIs for school and administration tablets. </li>
-							<li>- Documented the system user manual and system architecture for clarity and user experience.</li>
 						</ul>
 						<h4 class="text-2xl mt-2">Labour Market Access Project</h4>
 						<ul class="ml-5">
 							<li>- Created Complex queries for reporting dashboard for <a href="https://jobhubs.net">LMAP </a> <a href="https://admin.jobhubs.net">Admin</a> portal to serve many employment centers and job seekers in Egypt with partnership with <a href="https://giz.de">GIZ</a>.</li>
 							<li>- Executed data migration of the database from the legacy software schema to fit the new software schema.</li>
-							<li>- Developed other features like sharing knowledge base, complaints, and company subscriptions.</li>
-							<li>- Implemented global role authorization and user specific authorization to be manageable in admin portal.</li>
 						</ul>
 						<p class="mt-2"><strong>Tech Stack</strong>: .NET Core 8, OAuth2 with Keycloak, VueJs, LLBLGen, Blazor WASM and Server Side, CQRS, xUnit, gRPC, SQL Server, PostgreSQL, Docker, Open Telemetry (Jaeger), and Elastic Stack (ELK).</p>
 						</div>
