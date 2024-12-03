@@ -1064,12 +1064,12 @@ export default {
 	},
 	computed: {
 		pwcLogo(){
-			if (localStorage) {
+			if (typeof window !== 'undefined') {
 				return localStorage.getItem('theme') == 'theme-light' ? '/Logo-pwc-light.png' : '/Logo-pwc-dark.png'
 			}
 		},
 		invertNumber(){
-			if (localStorage) {
+			if (typeof window !== 'undefined') {
 				return localStorage.getItem('theme') == 'theme-light' ? 0 : 100
 			}
 		}
