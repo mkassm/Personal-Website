@@ -174,25 +174,100 @@
 				<div
 					class="d-flex flex-col sm:flex-row justify-between items-center mb-16"
 				>
-					<div class="mb-5 bg-background-tertiary">
-						<div class="d-flex justify-content-between">
-							<div class="float-left"><a href="https://silverkeytech.com">SilverKey Technologies</a> - Software Engineer</div>
-							<div class="float-right">October 2021 – Present</div>
+					<div class="flex items-center gap-4 mb-5 bg-background-tertiary">
+						<g-image
+							width="40px"
+							height="40px"
+							:src="pwcLogo"
+							alt="PwC Logo"
+							class="w-40 shadow sm:block xs:hidden"
+						/>
+						<div>
+							<div class="d-flex justify-content-between">
+								<div class="float-left">
+									<a href="https://www.pwc.com">PwC</a> - Senior Software Engineer
+								</div>
+								<div class="float-right">May 2024 – Present</div>
+							</div>
+							<br />
+							<p>
+								I am currently working on PwC Egypt Technology & Innovation Centre
+								(ETIC) in designing and building enterprise systems internally and externally.
+								The following highlights the projects to which I've contributed and my
+								responsibilities:
+							</p>
+							<h4 class="text-2xl mt-2">Assessment Hub</h4>
+							<p>
+								<a href="https://store.pwc.co.uk/en/products/assessment-hub">Assessment hub</a> is a
+								cloud-based multi-tenant enterprise system that digitizes and automates
+								your assessment programmes and workflows.
+							</p>
+							<ul class="ml-5">
+								<li>
+									- Collaborated with the DPS team in UK to deliver risk and assurance
+									features for serving global clients, including Amazon, IKEA, Jaguar
+									Land Rover (JLR), and other enterprise tenants.
+								</li>
+								<li>
+									- Implemented an Assessment Intelligence AI Assistant using RAG and
+									GenAI technologies, leveraging Azure OpenAI, Semantic Kernel, and
+									Azure AI Services.
+								</li>
+								<li>
+									- Enhanced platform performance by optimizing and rewriting database
+									queries, achieving 95% faster under high workloads.
+								</li>
+								<li>
+									- Upgraded a Vue SPA to the latest ecosystem, incorporating Vue 3,
+									Vite, and Pinia with TypeScript for maintainability.
+								</li>
+								<li>
+									- Conducted regular code reviews to ensure the delivery of clean,
+									maintainable, and secure code, following clean architecture and
+									design principles.
+								</li>
+							</ul>
+							<p class="mt-2">
+								<strong>Tech Stack</strong>: .NET Core 8, SignalR, OAuth2 with
+								IdentityServer, VueJs, CQRS, BFF, xUnit, SQL Server, Clean Architecture,
+								Azure Functions, Azure Service Bus, Azure Account Storage, Azure
+								AppInsights, Azure AI services.
+							</p>
 						</div>
-						<br>
-						<p>I have worked on designing and building many financial projects for <a href="https://taly.com.eg">Taly digital payments</a> and other governorate management systems. The following highlights the projects to which I've contributed and my responsibilities:</p>
+					</div>
+				</div>
+
+				<div
+					class="d-flex flex-col sm:flex-row justify-between items-center mb-16"
+				>
+					<div class="flex items-center gap-4 mb-5 bg-background-tertiary">
+						<g-image
+							width="40px"
+							height="40px"
+							src="/SK_Logo.png"
+							alt="Silverkey Technologies logo"
+							class="w-40 shadow sm:block xs:hidden"
+						/>
+						<div>
+							<div class="d-flex justify-content-between">
+								<div class="float-left"><a href="https://silverkeytech.com">SilverKey Technologies</a> - Software Engineer</div>
+								<div class="float-right">October 2021 – April 2024</div>
+							</div>
+							<br />
+							<p>I have worked on designing and building many financial projects for <a href="https://taly.com.eg">Taly digital payments</a> and other governorate management systems. The following highlights the projects to which I've contributed and my responsibilities:</p>
 						<h4 class="text-2xl mt-2">Taly BNPL (Buy Now Pay Later)</h4>
 						<ul class="ml-5">
 							<li>- Initiated the project architecture by applying the best practices in .NET Core with backend for frontend (BFF) pattern.</li>
-							<li>- Developed and designed web poral features including plan management, onboarding flow, maker/checker review, action logs, auto-approval, in-system notifications, background services, and others.</li>
-							<li>- Implemented secure and resilient APIs (Internal and Integration) for onboarding and payments external merchants.</li>
+							<li>- Developed and designed web poral features including plan management, onboarding flow, maker/checker review, action logs, custom rule engine, in-system notifications, background services, and others.</li>
+							<li>- Implemented secure APIs (Internal & Integration) for onboarding/offboarding and repayment of external merchants.</li>
 							<li>- Design the system to be multi-tenant enabling banks serve their nested corporate, aggregators, and merchants.</li>
 							<li>- Document the database design and integration API Guide.</li>
 						</ul>
 						<h4 class="text-2xl mt-2">Taly Meeza Wallet</h4>
 						<ul class="ml-5">
-							<li>- Developed a fully REST APIs based on service-oriented architecture (SOA) for the wallet mobile app.</li>
-							<li>- Implemented the SOAP protocol of Meeza digital network to handle wallet processing in Egypt, achieving certification from <a href="https://www.egyptianbanks.com">Egyptian Bank</a>.</li>
+							<li>- Developed REST APIs based on service-oriented architecture (SOA) for the wallet mobile app and integration services.</li>
+							<li>- Implemented the integration layers (inbound and outbound) of Meeza digital network to handle wallet processing in Egypt, achieving both issuer and acquirer certifications from <a href="https://www.egyptianbanks.com">Egyptian Bank</a>.</li>
+							<li>- Engaged with security team to remediate their findings ensuring PCI DSS compliance and standards for PII storage.</li>
 							<li>- Reduced database workload by implementing distributed caching, leading to improved overall performance.</li>
 							<li>- Ensured regulatory compliance from the <a href="https://www.cbe.org.eg">Central Bank of Egypt (CBE)</a> by meeting their security, payment standards and requirements.</li>
 						</ul>
@@ -219,6 +294,7 @@
 							<li>- Implemented global role authorization and user specific authorization to be manageable in admin portal.</li>
 						</ul>
 						<p class="mt-2"><strong>Tech Stack</strong>: .NET Core 8, OAuth2 with Keycloak, VueJs, LLBLGen, Blazor WASM and Server Side, CQRS, xUnit, gRPC, SQL Server, PostgreSQL, Docker, Open Telemetry (Jaeger), and Elastic Stack (ELK).</p>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -724,6 +800,25 @@
 									<p class="truncate font-semibold text-center">Open Telemetry with Jaeger</p>
 								</div>
 							</li>
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
+								<div class="flex flex-col items-center ml-8 mb-8">
+									<div progress="70" class="c100 p80 angularColor" :style="{filter: 'invert('+invertNumber+')'}">
+									<span>
+										<g-image
+										src="/kafka.svg"
+										id="kafka"
+										alt="kafka icon"
+										class="img-skill"
+										/>
+									</span>
+									<div class="slice">
+										<div class="bar"></div>
+										<div class="fill"></div>
+									</div>
+									</div>
+									<p class="truncate font-semibold text-center">Kafka</p>
+								</div>
+							</li>
 						</ul>
 						<h2 class="text-2xl my-2 text-gray-600">Familiar with:</h2>
 						<ul class="flex flex-wrap ml-8 text-base ml-auto mb-4">
@@ -765,14 +860,17 @@
 									<p class="truncate font-semibold text-center">Flask</p>
 								</div>
 							</li>
+						</ul>
+						<h2 class="text-2xl my-2 text-gray-600">Cloud:</h2>
+						<ul class="flex flex-wrap ml-8 text-base ml-auto mb-4">
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p50 identityServerColor">
+									<div progress="70" class="c100 p80 pythonColor">
 									<span>
 										<g-image
-										src="/tensorflow-2.svg"
-										id="tensorflow"
-										alt="tensorflow icon"
+										src="/azure.png"
+										id="azure"
+										alt="azure icon"
 										class="img-skill"
 										/>
 									</span>
@@ -781,7 +879,7 @@
 										<div class="fill"></div>
 									</div>
 									</div>
-									<p class="truncate font-semibold text-center">Tensorflow</p>
+									<p class="truncate font-semibold text-center">Azure</p>
 								</div>
 							</li>
 						</ul>
@@ -992,7 +1090,14 @@ export default {
 		ProjectCard,
 	},
 	mounted() {
-
 	},
+	computed: {
+		pwcLogo(){
+			return localStorage.getItem('theme') == 'theme-light' ? '/Logo-pwc-light.png' : '/Logo-pwc-dark.png'
+		},
+		invertNumber(){
+			return localStorage.getItem('theme') == 'theme-light' ? 0 : 100
+		}
+	}
 };
 </script>
