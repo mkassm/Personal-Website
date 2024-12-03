@@ -1064,10 +1064,14 @@ export default {
 	},
 	computed: {
 		pwcLogo(){
-			return localStorage.getItem('theme') == 'theme-light' ? '/Logo-pwc-light.png' : '/Logo-pwc-dark.png'
+			if (localStorage) {
+				return localStorage.getItem('theme') == 'theme-light' ? '/Logo-pwc-light.png' : '/Logo-pwc-dark.png'
+			}
 		},
 		invertNumber(){
-			return localStorage.getItem('theme') == 'theme-light' ? 0 : 100
+			if (localStorage) {
+				return localStorage.getItem('theme') == 'theme-light' ? 0 : 100
+			}
 		}
 	}
 };
