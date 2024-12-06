@@ -138,7 +138,7 @@
 						</p>
 
 						<p class="m-8">
-							I have strong and functional knowledge extends across multiple domains, including Digital Finance and Payments, Government Gateways, Education Management, and Labour Market Access Management.
+							I have strong and functional knowledge extends across multiple domains, including Fintech (core banking and payments), Risk compliance, and Custom enterprise systems.
 						</p>
 
 						<p class="m-8">
