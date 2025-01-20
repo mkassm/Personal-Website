@@ -203,7 +203,6 @@
 								your assessment programmes and workflows.
 							</p>
 							<ul class="ml-5">
-								<li>- Collaborated with the DPS team in UK to deliver risk and assurance features for serving global clients, including Amazon, IKEA, Jaguar Land Rover (JLR), and other enterprise tenants.</li>
 								<li>- Developed an AI-powered Assessment Intelligence Assistant using Azure OpenAI, Semantic Kernel, and Azure AI Services to enhance data processing and insights.</li>
 								<li>- Optimized database queries, achieving up to 95% faster performance under high workloads.</li>
 								<li>- Upgraded a Vue.js SPA ecosystem to Vue 3 with Vite, Pinia, and TypeScript for improved maintainability and performance.</li>
