@@ -191,7 +191,7 @@
 							</div>
 							<br />
 							<p>
-								I am currently working on PwC Egypt Technology & Innovation Centre
+								I am currently working at PwC Egypt Technology & Innovation Centre
 								(ETIC) in designing and building enterprise systems internally and externally.
 								The following highlights the projects to which I've contributed and my
 								responsibilities:
