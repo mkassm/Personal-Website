@@ -29,5 +29,8 @@
         "postcss": "^7.0.35",
         "sass-loader": "^10.1.1",
         "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.3"
+    },
+    "resolutions": {
+        "sharp": "^0.29.0"
     }
 }
