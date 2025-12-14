@@ -19,7 +19,7 @@ export default function (Vue, { router, head, isClient }) {
   head.meta.push({
     name: "keywords",
     content:
-      "Mohamed Kassem, mkssm, kassm.me, pwc, aboelkassem, mo_kassm, ابوالقاسم,محمد عبدالرحمن,Mohamed Abdelrahman,aboelkassem,Abo elkassem,Mohamed, kassm.me,aboelkassem me,abo_elkassem,aboel_kassem,ab0elkassem,Aboelkassem77, distributed systems, developer, egypt, beni suef, pwc etic, web security, mohamed aboelkassem,Mohamed Abdelrahman Aboelkassem,mohamed abdelrahman,back-end engineer, web developer, full stack developer,junior full stack developer,.Net developer,software engineer,software developer,aboelkassem developer,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,Typescript,ASP.NET Core,Angular,Listify,SQL Server,github,code,software,open source,beni suef,Beni-Suef,egypt, silverkey, silverkeytech",
+      "Mohamed Kassem, mkssm, mohamedkassem.xyz, pwc, aboelkassem, mo_kassm, ابوالقاسم,محمد عبدالرحمن,Mohamed Abdelrahman,aboelkassem,Abo elkassem,Mohamed, mohamedkassem.xyz,aboelkassem me,abo_elkassem,aboel_kassem,ab0elkassem,Aboelkassem77, distributed systems, developer, egypt, beni suef, pwc etic, web security, mohamed aboelkassem,Mohamed Abdelrahman Aboelkassem,mohamed abdelrahman,back-end engineer, web developer, full stack developer,junior full stack developer,.Net developer,software engineer,software developer,aboelkassem developer,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,Typescript,ASP.NET Core,Angular,Listify,SQL Server,github,code,software,open source,beni suef,Beni-Suef,egypt, silverkey, silverkeytech",
   });
 
   head.meta.push({
@@ -66,7 +66,7 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: "twitter:url",
-    content: "https://kassm.me",
+    content: "https://mohamedkassem.xyz",
   });
 
   head.meta.push({
@@ -93,7 +93,7 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: "og:url",
-    content: "https://www.kassm.me",
+    content: "https://www.mohamedkassem.xyz",
   });
 
   head.meta.push({
@@ -128,7 +128,7 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: "canonical",
-    content: "https://kassm.me",
+    content: "https://mohamedkassem.xyz",
   });
 
   head.meta.push({
