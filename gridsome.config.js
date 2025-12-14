@@ -8,7 +8,7 @@ module.exports = {
   siteName: "Mohamed Kassem",
   siteDescription:
     "Mohamed Kassem (@mkassm) is a software engineer who loves the tech industry, problem solving, and open source contributions.",
-  siteUrl: "https://www.kassm.me",
+  siteUrl: "https://www.mohamedkassem.xyz",
   plugins: [
     {
       use: "gridsome-plugin-tailwindcss",
@@ -27,13 +27,13 @@ module.exports = {
         contentTypeName: "Post",
         feedOptions: {
           title: "Mohamed Kassem portfolio",
-          feed_url: "https://www.kassm.me/rss.xml",
-          site_url: "https://www.kassm.me",
+          feed_url: "https://www.mohamedkassem.xyz/rss.xml",
+          site_url: "https://www.mohamedkassem.xyz",
         },
         feedItemOptions: (node) => ({
           title: node.title,
           description: node.summary,
-          url: "https://blog.kassm.me/" + node.slug,
+          url: "https://blog.mohamedkassem.xyz/" + node.slug,
           author: "Mohamed Kassem",
           date: node.date,
         }),
@@ -69,8 +69,8 @@ module.exports = {
     {
       use: "gridsome-plugin-robots-txt",
       options: {
-        host: "https://www.kassm.me",
-        sitemap: "https://www.kassm.me/sitemap.xml",
+        host: "https://www.mohamedkassem.xyz",
+        sitemap: "https://www.mohamedkassem.xyz/sitemap.xml",
         policy: [
           {
             userAgent: "Googlebot",

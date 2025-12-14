@@ -134,7 +134,7 @@
 
 						<p class="m-8">
 							I spend a lot of my development time contributing to open-source projects.
-							Most of it started by myself which can be found from my <a href="https://github.com/mkassm">GitHub profile</a>. I'm also spending a lot of time blogging at <a href="https://blog.kassm.me">blog.kassm.me</a>.
+							Most of it started by myself which can be found from my <a href="https://github.com/mkassm">GitHub profile</a>. I'm also spending a lot of time blogging at <a href="https://blog.mohamedkassem.xyz">blog.mohamedkassem.xyz</a>.
 						</p>
 
 						<p class="m-8">
@@ -898,7 +898,7 @@
 				<ProjectCard
 					projectName="ChattingApp"
 					imgUrl="/aaseh.png"
-					liveLink="https://chatting.kassm.me"
+					liveLink="https://chatting.mohamedkassem.xyz"
 					codeLink="https://github.com/mkassm/ChattingApp"
 					imgCoverUrl="/chattingapp.png"
 					description="A real-time messaging and dating application build with ASP.NET Core and Angular."
@@ -907,7 +907,7 @@
 				<ProjectCard
 					projectName="Foods"
 					imgUrl="/asejb.png"
-					liveLink="https://foods.kassm.me"
+					liveLink="https://foods.mohamedkassem.xyz"
 					codeLink="https://github.com/mkassm/Foods_Restaurant"
 					imgCoverUrl="/foods.png"
 					description="A restaurant management system that enable customers to order food online and get delivered."
@@ -934,7 +934,7 @@
 				<ProjectCard
 					projectName="Blog"
 					imgUrl="/gn.png"
-					liveLink="https://blog.kassm.me"
+					liveLink="https://blog.mohamedkassem.xyz"
 					codeLink="https://github.com/mkassm/blog"
 					imgCoverUrl="/blog.png"
 					description="My personal blog where to share my thoughts and technical articles...built using Gatsby and Netlify CMS"

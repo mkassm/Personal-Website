@@ -49,13 +49,13 @@
 					<li>
 						<a
 							v-if="$route.path === '/'"
-							href="https://blog.kassm.me/" target="_blank"
+							href="https://blog.mohamedkassem.xyz/" target="_blank"
 							class="text-copy-primary hover:text-gray-600"
 							>Blog</a
 						>
 						<g-link
 							v-else
-							to="https://blog.kassm.me/"
+							to="https://blog.mohamedkassem.xyz/"
 							target="_blank"
 							class="text-copy-primary hover:text-gray-600"
 							>Blog</g-link
